@@ -1,2 +1,2 @@
 # script files list
-- shadowsocks-install.sh
+- xx.sh
