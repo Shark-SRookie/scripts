@@ -1,2 +1,2 @@
 # script files list
-- xx.sh
+- tmux.sh
